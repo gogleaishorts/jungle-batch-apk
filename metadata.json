@@ -1,0 +1,6 @@
+{
+  "name": "Jungle Batch",
+  "description": "Digital data creation and physical training record management system for defense and army aspirants with photo uploads and customizable fields.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
